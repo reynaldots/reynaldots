@@ -1,8 +1,19 @@
+[![reynaldots's github stats](https://github-readme-stats.vercel.app/api?username=reynaldots&count_private=true&theme=radical&show_icons=true)](https://www.lifeappgrade.com/)  
+[![reynaldots's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reynaldots&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@reynaldots)
 ### Hi there 👋
 
-<!--
-**reynaldots/reynaldots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 I have experience with...
+  - C#
+  - jQuery
+  - Bootstrap
+  - MySQL
+  - PostgreSQL
+  - Selenium
+  - Scrapy
+- 🌱 I’m currently learning...
+  - Software Arquitecture
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
