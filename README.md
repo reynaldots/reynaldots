@@ -1,5 +1,8 @@
 [![reynaldots's github stats](https://github-readme-stats.vercel.app/api?username=reynaldots&count_private=true&theme=radical&show_icons=true)](https://www.lifeappgrade.com/)  
 [![reynaldots's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=reynaldots&count_private=true&theme=radical&show_icons=true)](https://wakatime.com/@reynaldots)
+
+![](https://komarev.com/ghpvc/?username=reynaldots)
+
 ### Hi there 👋
 
 - 📚 I have experience with...
